@@ -1,0 +1,33 @@
+h1:hover {
+    color: rgb(152, 224, 200);
+    background-color: beige;
+    font-size: 20px;
+   } 
+
+.standout {
+    color: rgb(109, 109, 241);
+}
+
+h2.standout {
+    color: rgb(246, 194, 116);
+}
+
+.image1:hover {
+    border-radius: 50%;
+}
+
+.image2:hover {
+    border-radius: 40px;
+}
+
+.image3:hover {
+    opacity: 0.7;
+}
+
+.image4:hover {
+    filter: grayscale(70%);
+}
+
+.image5:hover {
+    filter: blur(3px);
+}
